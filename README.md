@@ -1,5 +1,17 @@
 > 联系作者，微信号：developers_pub、微信昵称：Qbian
 
+# 零 登录账号
+
+超级管理员登录，如下图：
+
+
+
+|  账号   | 登录密码 |
+| :-----| :---- |
+| admin@developers.pub  | admin123456 |
+| superadmin@developers.pub  | admin123456 |
+
+
 # 一 部署效果
 
 - 开源版演示地址：http://opensource.developers.pub
