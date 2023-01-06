@@ -12,6 +12,10 @@
 | superadmin@developers.pub  | admin123456 |
 
 
+
+该项目的前端页面是由 Java 生成的
+
+
 # 一 部署效果
 
 - 开源版演示地址：http://opensource.developers.pub
